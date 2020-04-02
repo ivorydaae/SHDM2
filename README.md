@@ -1,10 +1,10 @@
 # Syllabus
 
-This version of the syllabus has been slightly reviewed and adapted to be 100% online. It might differ from the version you access too previously and provided by your school.  
+This version of the syllabus has been slightly reviewed and adapted to be 100% online. It might differ from the version provided by your school.  
 
 ## Introduction
 
-During this class, students will learn how to build a predictive model using Dataiku DSS, a collaborative Data Science platform.  
+During this course, students will learn how to build a predictive model using Dataiku DSS, a collaborative Data Science platform.  
 
 While learning how to use the platform, students will be exposed to typical company use cases, falling into the Enterprise AI field.  
 
@@ -19,17 +19,17 @@ Students will also go through every steps of a Data Science workflow (import, cl
 In this repository, you will find a folder for each class.  
 The folder will contain the following:
 - a `README.md` file with indications regarding:
-  - an introduction of the class
-  - the content of the class
-  - external links with resources used during the class
-- most of the steps done during the hands on session, pictures, records and code snippets (for **class02**, **class03**, **class04**)
+  - **Class** presentation 
+  - **Content** of the class
+  - **Resources & external links** with resources used during the class
+- most of the steps done during the hands on session, a link to the slides, pictures, records and code snippets (for **class02**, **class03**, **class04**)
 - a `.zip` file with the correction of the hands-on in class (for **class02**, **class03**, **class04**) 
 
 ## Evaluation
 
 The evaluation process has been adapted to be 100% online as well. The evaluation will consist in:
 - 50% accounting for the results of your final exam
-- 50% accounting for thecontent of your hands on sessions
+- 50% accounting for the content of your hands on sessions
 
 ## Contact information
 

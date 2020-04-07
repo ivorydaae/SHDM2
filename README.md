@@ -8,17 +8,21 @@ This version of the syllabus has been slightly reviewed and adapted to be 100% o
 	- 9h - 9h50
 	- 10h - 10h50
 	- 11h - 12h
+
 - Afternoon slots (AS):
 	- 14h - 14h50
 	- 15h - 15h50
 	- 16h - 17h
+
 - Office Hours:
 	- Tuesday to Thursday, 17h30-18h30 via Slack
+
 - Sessions:
 	- Class 01, Tuesday 14th - Group 1, Group 2 - AS
 	- Class 02, Wednesday 15th - Group 1 MS, Group 2 AS
 	- Class 03, Thursday 16th - Group 1 MS, Group 2 AS
 	- Class 04, Friday 17th - Group 1 MS, Group 2 AS
+
 - Final Exam:
 	- Friday 17th, 17:30 - 18h15  
  

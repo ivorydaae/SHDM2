@@ -1,4 +1,4 @@
-# Class 1
+# Class01
 [Class01 Slides](https://docs.google.com/presentation/d/1ssf6sPhmWP4LuclNNxbKiMt_YXOyvFzD1PJTe0L1gUw/edit?usp=sharing)
 
 ## Class Introduction: Dataiku DSS & Core concepts of Data Science

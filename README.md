@@ -48,7 +48,11 @@ The folder will contain the following:
   - **Content** covered during the class
   - **Resources & external links** with resources used during the class
 - code snippets (**class03**)
-- a `.zip` file with the correction of the hands-on in class (for **class02**, **class03**, **class04**) 
+- a `.zip` file with the correction of the hands-on in class, updated every after every class (for **class02**, **class03**, **class04**) 
+
+## Link to all slides
+
+[Here is a link to all slide decks](https://drive.google.com/open?id=1naFKxFO8gNEP4Csb5Qe-DRRg5sFzu2If)  
 
 ## Evaluation
 
@@ -61,5 +65,5 @@ The evaluation process has been adapted to be 100% online as well. The evaluatio
 Don't hesitate to contact me via email: `loris.mattioni@dataiku.com` or via Slack, on `#course-dataiku` (workspace `dmds-2019`).  
  
 I encourage you to take advantage of the office hours to get an answer quickly!  
-Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday.   
+Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday 
 

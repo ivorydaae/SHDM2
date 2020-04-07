@@ -1,4 +1,4 @@
-# Class 2
+# Class02
 [Class02 Slides](https://docs.google.com/presentation/d/1EBtm9mgS6r-DPs7ZQ3HBbXT3vNkh98pUI1njgxQIHYQ/edit#slide=id.g7294067f54_0_0)
 
 ## First Hands On: discovering basic and advanced capabilities of a data science platform
@@ -50,7 +50,7 @@ Finally, we will export our results to a dshboardd. Remember to always think of 
 With some Dataiku features, we will make these results as insightful as possible.  
 
 ## Resource & external links
-- [Titanic on Kaggle]()
-- [Basic Dataiku tutorial to go further]()
+- [Titanic on Kaggle](https://www.kaggle.com/c/titanic)
+- [Basic Dataiku tutorial to go further](https://www.dataiku.com/learn/portals/tutorials/)
 
 

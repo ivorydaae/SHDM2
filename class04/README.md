@@ -1,4 +1,4 @@
-# Class 4
+# Class04
 [Class04 Slides](https://docs.google.com/presentation/d/1CPcYW4ZIdF0MqSeEwi6D0Nj3lG8RNRdOVNsp6--OBM4/edit?usp=sharing)
 
 ## Final Project  

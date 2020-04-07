@@ -43,9 +43,11 @@ Students will also go through every steps of a Data Science workflow (import, cl
 In this repository, you will find a folder for each class.  
 The folder will contain the following:
 - a `README.md` file with indications regarding:
+  - a link to the slides
   - **Class** presentation 
+  - **Content** covered during the class
   - **Resources & external links** with resources used during the class
-- most of the steps done during the hands on session, a link to the slides, pictures, records and code snippets (for **class02**, **class03**, **class04**)
+- code snippets (**class03**)
 - a `.zip` file with the correction of the hands-on in class (for **class02**, **class03**, **class04**) 
 
 ## Evaluation
@@ -56,6 +58,8 @@ The evaluation process has been adapted to be 100% online as well. The evaluatio
 
 ## Contact information
 
-Don't hesitate to contact me via email: `loris.mattioni@dataiku.com` or slack, on #course-dataiku (workspace `dmds-2019`).  
-I encourage yu to take advantage of the office hours to get an answer quickly! Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday.   
+Don't hesitate to contact me via email: `loris.mattioni@dataiku.com` or via Slack, on `#course-dataiku` (workspace `dmds-2019`).  
+ 
+I encourage you to take advantage of the office hours to get an answer quickly!  
+Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday.   
 

@@ -1,5 +1,5 @@
 # Class02
-[Class02 Slides](https://docs.google.com/presentation/d/1EBtm9mgS6r-DPs7ZQ3HBbXT3vNkh98pUI1njgxQIHYQ/edit#slide=id.g7294067f54_0_0)
+[Class02 Slides](https://docs.google.com/presentation/d/1EBtm9mgS6r-DPs7ZQ3HBbXT3vNkh98pUI1njgxQIHYQ/edit?usp=sharing)
 
 ## First Hands On: discovering basic and advanced capabilities of a data science platform
 
@@ -7,8 +7,8 @@ The second session will be dedicated to the core features of Dataiku DSS. The st
 
 **Our Use case**: Titanic  
 This use case is probably one of the most famous use case in machine learning (it would not be suprising if you are familiar with it already!). Our goal will be to predict whether a person in the Titanic will survive.  
-To build a predictive model, we will work a `train` dataset, with known data and a `test` dataset with unknown data. Once prepared & enriched, we will train some models on our train dataset and score our unknown data.  
-The data we will work with include socio-demographic information, tickets information and some other interesting features! 
+To build a predictive model, we will work on a `train` dataset, with known data and a `test` dataset with unknown data. Once prepared & enriched, we will train some models on our train dataset and score our unknown data.  
+The data we will work includes socio-demographic information, tickets information and some other interesting features! 
 
 ## Content
 Working on the famous `Titanic` use case, we will discover core functionalities of Dataiku DSS along with the visual machine learning part.
@@ -51,6 +51,5 @@ With some Dataiku features, we will make these results as insightful as possible
 
 ## Resource & external links
 - [Titanic on Kaggle](https://www.kaggle.com/c/titanic)
-- [Basic Dataiku tutorial to go further](https://www.dataiku.com/learn/portals/tutorials/)
-
-
+- [Basic Dataiku tutorials to go further](https://www.dataiku.com/learn/portals/tutorials/)
+- In the same repository, you can access a correction of the use case as a .zip file. This file includes the Dataiku project and can be imported as such on your local Dataiku instance: New project > Import project. 

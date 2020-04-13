@@ -3,8 +3,14 @@
 
 ## Final Project  
 
-Students will pair up and work on a data science use case among several suggested, with proper datasets. Here, they will build their own their predictive model and will have to present results in a proper way, via dashboards and visualizations. 
+For the final class, students will work on their own on a specific use case called `House Pricng`. This use case has been created based on [Aurélien Géron's Book: Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml). Our goal will be to predict the price of a house in San Francisco... In Dataiku. We will start building our workflow together and you will be guided through a various set of steps and tasks to finish the project.  
 
-## Content
+## Content 
+
+You will carefully follow the different steps from importing your data to scoring you `test` dataset while building a dashboard in DSS with your analysis, including coding and visual recipes and more.  
+
+All tasks and steps will be detailled in the slides, with a correction updated at the end of the class.  
 
 ## Resources & External Links
+- [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) 
+- [DSS Free Edition](https://www.dataiku.com/product/get)

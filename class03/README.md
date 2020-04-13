@@ -1,5 +1,5 @@
 # Class03
-[Class03 Slides](https://docs.google.com/presentation/d/1PWLezFsOt33qWdSTMLza5naE2IHH3X3ofjcr7Rg5LOs/edit#slide=id.g7294067f54_0_0)
+[Class03 Slides](https://docs.google.com/presentation/d/1PWLezFsOt33qWdSTMLza5naE2IHH3X3ofjcr7Rg5LOs/edit?usp=sharing)
 
 ## Second Hands On: extend the power of a data science platform with your own code
 
@@ -13,4 +13,10 @@ As a matter of clarity, the FICO score given in the customer information databas
 
 ## Content
 
+We will follow the same walkthrough as for the _Titanic_ use case to start the project and import our data.  
+On the way, we will discover coding capabilities in Dataiku with Python and SQL. We will use notebooks and coding recipes to explore and process our data.  
+
+In the very end, we will train and deploy our model and we will access our model as a notebook to better understand how Dataiku leverages the `scikit-learn` open source library.  
+
 ## Resources & External Links
+- 

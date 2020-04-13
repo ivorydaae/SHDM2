@@ -1,5 +1,6 @@
 # Syllabus
 
+Couse: SHDM2  
 This version of the syllabus has been slightly reviewed and adapted to be 100% online. It might differ from the version provided by your school.  
 
 ## Time Schedule
@@ -49,10 +50,6 @@ The folder will contain the following:
   - **Resources & external links** with resources used during the class
 - code snippets (**class03**)
 - a `.zip` file with the correction of the hands-on in class, updated every after every class (for **class02**, **class03**, **class04**) 
-
-## Link to all slides
-
-[Here is a link to all slide decks](https://drive.google.com/open?id=1naFKxFO8gNEP4Csb5Qe-DRRg5sFzu2If)  
 
 ## Evaluation
 

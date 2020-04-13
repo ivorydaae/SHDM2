@@ -22,3 +22,4 @@ In the very end, we will train and deploy our model and we will access our model
 - Video recording of the class, post course - to be updated via `Slack`
 - [Interactive Tutorials in SQL](https://sqlbolt.com/)  
 - [Interactive Regex Tutorials](https://regex101.com/)  
+- In the same repository, you can access a correction of the use case as a .zip file. This file includes the Dataiku project and can be imported as such on your local Dataiku instance: New project > Import project.

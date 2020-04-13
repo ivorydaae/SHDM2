@@ -1,5 +1,7 @@
 # Class04
-[Class04 Slides](https://docs.google.com/presentation/d/1CPcYW4ZIdF0MqSeEwi6D0Nj3lG8RNRdOVNsp6--OBM4/edit?usp=sharing)
+
+The last class will be a project you will have to work on on your own with some guidance during the class.  
+Class04 Slides - will be updated on Thursday. Correction will be accessible after the course.  
 
 ## Final Project  
 

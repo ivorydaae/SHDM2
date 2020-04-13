@@ -52,4 +52,5 @@ With some Dataiku features, we will make these results as insightful as possible
 ## Resource & external links
 - [Titanic on Kaggle](https://www.kaggle.com/c/titanic)
 - [Basic Dataiku tutorials to go further](https://www.dataiku.com/learn/portals/tutorials/)
+- Video recording of the class, post course - to be updated via `Slack`
 - In the same repository, you can access a correction of the use case as a .zip file. This file includes the Dataiku project and can be imported as such on your local Dataiku instance: New project > Import project. 

@@ -19,4 +19,6 @@ On the way, we will discover coding capabilities in Dataiku with Python and SQL.
 In the very end, we will train and deploy our model and we will access our model as a notebook to better understand how Dataiku leverages the `scikit-learn` open source library.  
 
 ## Resources & External Links
-- 
+- Video recording of the class, post course - to be updated via `Slack`
+- [Interactive Tutorials in SQL](https://sqlbolt.com/)  
+- [Interactive Regex Tutorials](https://regex101.com/)  

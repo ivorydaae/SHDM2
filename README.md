@@ -1,6 +1,7 @@
 # Syllabus
 
-Couse: SHDM2  
+Course: **SHDM2**  
+  
 This version of the syllabus has been slightly reviewed and adapted to be 100% online. It might differ from the version provided by your school.  
 
 ## Time Schedule
@@ -25,8 +26,8 @@ This version of the syllabus has been slightly reviewed and adapted to be 100% o
 	- Class 04, Friday 17th - Group 1 MS, Group 2 AS
 
 - Final Exam:
-	- Friday 17th, 17:30 - 18h15  
- 
+	-  Monday, April 20th: 10h - 10h40
+
 ## Introduction
 
 During this course, students will learn how to build a predictive model using Dataiku DSS, a collaborative Data Science platform.  

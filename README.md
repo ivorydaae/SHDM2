@@ -4,20 +4,15 @@ Course: **SHDM2**
   
 This version of the syllabus has been slightly reviewed and adapted to be 100% online. It might differ from the version provided by your school.  
 
-## Time Schedule
+## Time Schedule (Paris Time)
 
-- Morning slots (MS): 
-	- 9h - 9h50
-	- 10h - 10h50
-	- 11h - 12h
-
+- Morning (MS): 
+	- 9h - 12h (with breaks)
 - Afternoon slots (AS):
-	- 14h - 14h50
-	- 15h - 15h50
-	- 16h - 17h
+	- 14h - 17h (with breaks)
 
 - Office Hours:
-	- Tuesday to Thursday, 17h30-18h30 via Slack
+	- Wednesday to Friday, 12h30-13h30 via Zoom
 
 - Sessions:
 	- Class 01, Tuesday 14th - Group 1, Group 2 - AS
@@ -63,5 +58,5 @@ The evaluation process has been adapted to be 100% online as well. The evaluatio
 Don't hesitate to contact me via email or via Slack, on `#course-dataiku`  
  
 I encourage you to take advantage of the office hours to get an answer quickly!  
-Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday 
+Reminder: **office hours from 12.30 to 13.30 Paris Time**, Wednesday to Friday 
 

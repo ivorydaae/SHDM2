@@ -15,4 +15,4 @@ Some time will be dedicated to show you the movie [Data Science Pioneers](https:
 
 ## Resources & external links 
 - Video recording of the class, post course - to be updated via `Slack`
-
+- [One of many (and useful) Data Science Career guide](https://academy.elitedatascience.com/career-guide?__s=vf897c770q3fof4x0m2l)

@@ -19,4 +19,7 @@ Correction will be accessible after the class.
 
 ## Resources & External Links
 - [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) 
+- [Markdown Syntax Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [DSS Free Edition](https://www.dataiku.com/product/get)
+
+

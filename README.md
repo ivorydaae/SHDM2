@@ -60,7 +60,7 @@ The evaluation process has been adapted to be 100% online as well. The evaluatio
 
 ## Contact information
 
-Don't hesitate to contact me via email: `loris.mattioni@dataiku.com` or via Slack, on `#course-dataiku` (workspace `dmds-2019`).  
+Don't hesitate to contact me via email or via Slack, on `#course-dataiku`  
  
 I encourage you to take advantage of the office hours to get an answer quickly!  
 Reminder: **office hours from 17.30 to 18.30**, Tuesday to Thursday 
